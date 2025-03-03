@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>PORTFOLIO</title>
+     <link rel="stylesheet" href="styles.css"
+    </head>
+    <body>
+        <center><font face="Calibre"></font>
+            <font face="Calibre">
+ <h1>FRIAH JOY BAYOTAS</h1>
+ <IMG SRC="/storage/emulated/0/Pictures/Screenshots/Screenshot_20250217-091501.jpg" width=300  </IMG>
+    <section id="bio">
+         
+         
+         <a href="about .html"> Home</a>
+        <strong><h2>About Me</h2></strong>
+
+    
+        <strong> <p>Address:</strong>Brgy. Igang, Pototan Iloilo</p> 
+            <strong> </p> Age:</strong>19 </p> </strong>
+                <strong> <p>  Socials</p> </strong>
+                <p>Instagram: <a href="  https://www.instagram.com/friah_joy?igsh=MXZyYWgyZzNsb2M1dQ==">friah_joy</a></p>
+                <p>Facebook: <a href=" https://www.facebook.com/friahjoy.bayotas.9?mibextid=ZbWKwL ">Friah Joy Bayotas</a></p>
+                    <strong> <p>Interests:</strong> Sleeping, Watching Dramas and Series, Listening to Music</p> 
+                        <strong> <p>Skills </strong> </p> </strong>
+                        <p>Digital literacy</p>
+                            <p>Attention to detail</p>
+                                <p>Adaptability</p>
+                                    <p>Time management skills</p>
+                            <strong><p>Education</p> </strong>
+                            <p>Elementary: Igang Elementary School (2018)</p>
+                        <p>Secondary: Pototan NCHS (2024)</p>
+                                <strong> <p>Experience or Immersion</p> </strong>
+                                <p>Assisstant Student Teacher at Pototan NCHS</p>
+                                
+     
+            </font>
+            </center>
+    </body>
+</html>
